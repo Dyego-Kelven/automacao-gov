@@ -56,7 +56,7 @@ testes automatizados criados com cypress, para verificar funcionalidades do site
 ## ▶️ Como rodar o projeto
 1. Clone o repositórito:
 ```
-(https://github.com/Dyego-Kelven/automacao-gov.git)
+https://github.com/Dyego-Kelven/automacao-gov.git
 ```
 2. Instale as depêndencias:
 ```
